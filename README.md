@@ -1,4 +1,4 @@
-# Projeto MoA no Paredawn
+# Projeto: MoA no Paredawn
 Projeto sobre Bioinformatica - Mecanismos de Ação (MoA)
 <p align= "center">
 <img src="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/image/inicio.png" >
