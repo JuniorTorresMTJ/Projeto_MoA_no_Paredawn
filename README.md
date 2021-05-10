@@ -73,11 +73,11 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
   </a>
 <br><br>
 
-Alura: [Link](https://www.alura.com.br/)
+ - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Alura: [Link](https://www.alura.com.br/)
 
-Imersão Dados:[Link](https://www.alura.com.br/imersao-dados)
+- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" />  Imersão Dados: [Link](https://www.alura.com.br/imersao-dados)
 
-Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
+- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
 
 <p align= "left">
 <img src="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/image/mergulher.gif" min-width="300px" max-width="200px" width="300px" >
