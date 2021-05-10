@@ -33,26 +33,26 @@ Antes, as descobertas de novos medicamentos eram feitas por tentativa e erro, po
 <div align = "left">
 O projeto está estruturado da seguinte forma:<br>
 
-   * [Objetivos do Projeto](#Sobre)
-   * [Contextualizando](#Sobre)
-   * [Importação das Bibliotecas](#tabela-de-conteudo)
-   * [Carregamento das Bases](#instalacao)
-   * [Analise Exploratória](#como-usar)
-   * [Pré-processamento dos Dados](#testes)
-      * [Transformações nas Variáveis](#pre-requisitos)
-      * [Balanceamento dos Dados](#pre-requisitos)
-      * [Seleção de Variáveis](#pre-requisitos)
-   * [Levantamento das Hipóteses](#tecnologias)
-   * [Criação das Máquinas Preditivas](#tecnologias)
-      * [Regressão Logística](#pre-requisitos)
-      * [XGBoost](#pre-requisitos)
-      * [RandomForest](#pre-requisitos)
-   * [Avaliações do Modelo](#tecnologias)
-      * [F1-Score](#multiple-files)
-      * [Recall](#multiple-files)
-      * [Accuracy](#multiple-files)
-      * [Precision](#multiple-files)
-   * [Conclusão](#tecnologias)
+   * [Objetivos do Projeto](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Contextualizando](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Importação das Bibliotecas](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Carregamento das Bases](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Analise Exploratória](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Pré-processamento dos Dados](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Transformações nas Variáveis](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Balanceamento dos Dados](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Seleção de Variáveis](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Levantamento das Hipóteses](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Criação das Máquinas Preditivas](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Regressão Logística](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [XGBoost](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [RandomForest](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Avaliações do Modelo](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [F1-Score](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Recall](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Accuracy](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+      * [Precision](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
+   * [Conclusão](https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/notebook/Projeto_Final_MoA_no_Paredawn.ipynb)
 </div>
 O projeto foi desenvolvido de uma forma linear, então mostro todo o processo de pensamento e tratamento dos dados até chegar a conclusão.<br>
 <br>
@@ -72,7 +72,8 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
     <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
   </a>
 <br>
-
+Alura: [Link](https://www.alura.com.br/)
+Imersão Dados:[Link](https://www.alura.com.br/imersao-dados)
 Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
 
 <p align= "left">
