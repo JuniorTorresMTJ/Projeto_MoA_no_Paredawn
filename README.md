@@ -71,9 +71,12 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
   <a href="mailto:juniortorres.mth@gmail.com">
     <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
   </a>
-<br>
+<br><br>
+
 Alura: [Link](https://www.alura.com.br/)
+
 Imersão Dados:[Link](https://www.alura.com.br/imersao-dados)
+
 Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
 
 <p align= "left">
