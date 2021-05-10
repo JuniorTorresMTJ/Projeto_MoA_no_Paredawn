@@ -54,12 +54,27 @@ O projeto está estruturado da seguinte forma:<br>
       * [Precision](#multiple-files)
    * [Conclusão](#tecnologias)
 </div>
-O projeto foi desenvolvido de uma forma linear, então mostro todo o processo de pensamento e tratamento dos dados até chegar a conclusão.
+O projeto foi desenvolvido de uma forma linear, então mostro todo o processo de pensamento e tratamento dos dados até chegar a conclusão.<br>
+<br>
 
+<p align= "left">
 Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
+</p>
 
+<a  href="https://www.linkedin.com/in/marivaldotorres/">
+    <img align="left"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/callmejuniorr/">
+    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" />
+  </a>
+  <a href="mailto:juniortorres.mth@gmail.com">
+    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
+  </a>
+<br>
 
 Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
+
 <p align= "left">
 <img src="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/image/mergulher.gif" min-width="300px" max-width="200px" width="300px" >
 </p>
